@@ -2,33 +2,32 @@
 
 ## Contents
 
-This dataset consists of the following contents:
+This dataset consists of the following componets:
 
 - Audio–text pairs
 
 	This dataset includes 7,500 audio–text pairs for training and 3,000 audio–text pairs for validation.
 	Each text is written in English.
-	All audio samples was converted to mono 16-bit 16 kHz audio.
+	All audio samples was converted to mono 16-bit 16 kHz format.
 
-- 11-point semantic-alignment scores between audio and text by each listener
+- 11-point semantic-alignment scores between audio and text (per listener)
 
 	This dataset includes subjective evaluation scores for semantic alignment between audio and text.
-	The semantic-alignment score is on a scale of eleven from 0 (does not match at all.) to 10 (matched exactly).
-	Each audio–text pair is evaluated by four listeners, who are native English speakers.
+	The semantic-alignment score is on a an 11-point scale from 0 ("does not match at all") to 10 ("matched exactly").
+	Each audio–text pair is evaluated by four native English-speaking .
 
-- Average-semantic-alignment scores
+- Average semantic-alignment scores
 	
-	This dataset includes average-semantic aligment scores of each audio–text pair.
+	This dataset includes average semantic-alignment scores for each audio–text pair.
 
-- Listener ID
+- Listener IDs
 
-	This dataset includes listener IDs who scored the semantic-alignment score between audio and text.
+	This dataset includes listener IDs of those who scored the semantic alignment between audio and text.
 
 ## Download
 
-To download the dataset, please send an email to dataset@xacle.org.
-When you send the email, please include "Download dataset" in the subject line.
-You can obtain the dataset immediately via an automated reply.
+To download the dataset, please send an email to dataset@xacle.org with “Download dataset” in the subject line. 
+You will receive an automated reply with the download link.
 
 
 ## Statistics
