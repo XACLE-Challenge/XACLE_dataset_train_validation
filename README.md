@@ -56,27 +56,29 @@ You will receive an automated reply with the download link.
 
 The directory structure of this dataset is as follows:
 
-	XACLE_dataset
-	├── meta_data
-	│   ├── train_average.csv
-	│   ├── train.csv
-	│   ├── validation_average.csv
-	│   └── validation.csv
-	└── wav
-		├── train
-		│   ├── 00000.wav
-		│   ├── 00001.wav
-		│   ├── 00002.wav
-		│   ├── 	.
-		│   ├── 	.
-		│   └── 	.
-		└── validation
-			├── 07500.wav
-			├── 07501.wav
-			├── 07502.wav
-			├── 	.
-			├── 	.
-			└── 	.
+```
+XACLE_dataset
+├── meta_data
+│   ├── train_average.csv
+│   ├── train.csv
+│   ├── validation_average.csv
+│   └── validation.csv
+└── wav
+    ├── train
+    │   ├── 00000.wav
+    │   ├── 00001.wav
+    │   ├── 00002.wav
+    │   ├──   .
+    │   ├──   .
+    │   └──   .
+    └── validation
+        ├── 07500.wav
+        ├── 07501.wav
+        ├── 07502.wav
+        ├──   .
+        ├──   .
+        └──   .
+```
 
 ## Citation
 
