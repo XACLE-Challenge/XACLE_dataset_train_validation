@@ -7,8 +7,8 @@ This dataset consists of the following contents:
 - Audio–text pairs
 
 	This dataset includes 7,500 audio–text pairs for training and 3,000 audio–text pairs for validation.
-	Each text is written English.
-	All audio sample was converted to mono 16-bit 16 kHz audio.
+	Each text is written in English.
+	All audio samples was converted to mono 16-bit 16 kHz audio.
 
 - 11-point semantic-alignment scores between audio and text by each listener
 
